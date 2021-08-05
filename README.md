@@ -1,7 +1,7 @@
-## Oiii! Vinicius Cortez
+## Vinicius Cortez
 - ☕ Frontend e backend developer
- <div>
-  <a href="https://github.com/rafaballerini">
+ <div style="text-align: center">
+  <a href="https://github.com/cortezvini97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cortezvini97&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortezvini97&layout=compact&langs_count=7&theme=dark"/>
 </div>
