@@ -9,9 +9,11 @@
 
 <div align="center">
   <a href="https://github.com/cortezvini97">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cortezvini97&show_icons=true&theme=merko&include_all_commits=true&count_private=false" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cortezvini97&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cortezvini97&layout=compact&card_width=250&langs_count=7&theme=merko" />
   </a>
+
+</div>
 
 </div>
 
