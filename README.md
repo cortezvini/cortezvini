@@ -1,6 +1,6 @@
 ### Vinicius Cortez
 
-- ☕ Frontend e backend developer
+- ☕
 
 <img width=100% src="./img/coding.gif"/>
 
