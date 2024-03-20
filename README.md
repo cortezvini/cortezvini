@@ -5,7 +5,7 @@
 <img width="100%" src="./coding.gif"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&pause=1000&color=277FF2&center=true&vCenter=true&width=1000&lines=Hello%2C+My+name+is+Vinicius+Cortez;I'm+26+years+old;I'm+full+stack+developer;Be+Welcome+!;Ol%C3%A1%2C+Meu+nome+%C3%A9+Vinicius+Cortez;Tenho+26+anos;Eu+sou+desenvolvedor+full+stack;Seja+Bem+vindo+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&pause=1000&color=277FF2&center=true&vCenter=true&width=1000&lines=Hello%2C+My+name+is+Vinicius+Cortez;I'm+27+years+old;I'm+full+stack+developer;Be+Welcome+!;Ol%C3%A1%2C+Meu+nome+%C3%A9+Vinicius+Cortez;Tenho+27+anos;Eu+sou+desenvolvedor+full+stack;Seja+Bem+vindo+!)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/cortezvini97">
